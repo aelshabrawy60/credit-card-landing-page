@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from '../ui/button/Button';
-import Dora from '../ui/dora';
+import Dora from '../ui/Dora';
 
 interface FeatureProps {
     title: string;
