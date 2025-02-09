@@ -1,6 +1,6 @@
-# Bank Landing Page
+# Credit Card Landing Page
 
-This is a modern and responsive landing page for a bank, built using Next.js, TypeScript, and Tailwind CSS. It showcases the bank's services, features, and benefits in a visually appealing and user-friendly manner.
+This is a modern and responsive landing page for a Credit Card, built using Next.js, TypeScript, and Tailwind CSS. It showcases the bank's services, features, and benefits in a visually appealing and user-friendly manner.
 
 ## Features
 
