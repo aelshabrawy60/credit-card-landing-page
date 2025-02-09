@@ -8,7 +8,7 @@ import Services from "@/components/sections/Services";
 import Testomnials from "@/components/sections/Testomnials";
 import Button from "@/components/ui/button/Button";
 import CounterBar from "@/components/ui/CounterBar";
-import Dora from "@/components/ui/dora";
+import Dora from '../components/ui/Dora'
 import Navbar from "@/components/ui/Navbar/Navbar";
 import Parteners from "@/components/ui/Parteners";
 import UsersList from "@/components/ui/usersList/UsersList";

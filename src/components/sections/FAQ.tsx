@@ -1,6 +1,6 @@
 import React from 'react'
 import FAQCard from '../ui/FAQCard'
-import Dora from '../ui/dora'
+import Dora from '../ui/Dora'
 
 const faqs = [
     {
